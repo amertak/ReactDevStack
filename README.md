@@ -15,4 +15,4 @@ Run `npm run test` for single run tests
 Run `npm run debug-test` for continuous watch of tests
 
 ## Release
-Run `npm run release`, output will be in "bundle.js" and "bundle.css".
+Run `npm run release`, output will be in `bundle.js` and `bundle.css` in `dist` folder.
