@@ -1,0 +1,7 @@
+node_modules
+/.jscs.json
+static/*.*
+bower_components
+*.bat
+assets/web.config
+karma_html
